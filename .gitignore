@@ -6,6 +6,7 @@
 *.lock
 .DS_Store
 .env
+.venv/
 build/
 dist/
 *egg-info/
